@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Carretero</h1>
-<h3 align="center">am a Full Stack Developer with a strong focus on database design, management, and optimization</h3>
+<h3 align="center">I am a Full Stack Developer with a strong focus on database design, management, and optimization</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
